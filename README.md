@@ -1,5 +1,5 @@
 # Psychophysiology2017
-R scripts and dataset from Psychophysiology paper:
+R scripts from Psychophysiology paper:
 
 Ronan McGarrigle, Piers Dawes, Andrew Stewart, Stefanie Kuchinsky, & Kevin Munro (2017). Pupillometry reveals changes in physiological arousal during a sustained listening task, Psychophysiology, 5, 193-203.
 
